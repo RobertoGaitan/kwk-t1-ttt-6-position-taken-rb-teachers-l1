@@ -4,6 +4,5 @@ if board[index_number] == " " or board[index_number] == "" or board[index_number
   true
 else
   false
-
 end
 end
